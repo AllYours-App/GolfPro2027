@@ -1,1 +1,123 @@
-[]
+[
+  {
+    "id": "VIS-01",
+    "domaine": "visibilité",
+    "titre": "Reel 1 : présentation (qualifications, catégorie 6)",
+    "statut": "à faire",
+    "priorite": "cette semaine",
+    "compte": "Moi",
+    "brief": "Filmer 5 plans verticaux de 3 à 5 s pendant une séance déjà prévue à Chantaco, monter en 15 min max, publier avec légende, mentions et hashtags de taches-instagram.docx, puis épingler. Accord du club et du coach avant de les mentionner.",
+    "etat": "Plan de tournage, textes et légende prêts dans taches-instagram.docx. Étapes 1.1 à 1.6 toutes à faire.",
+    "date": "2026-11-20"
+  },
+  {
+    "id": "VIS-02",
+    "domaine": "visibilité",
+    "titre": "Reel 2 : séance driver",
+    "statut": "à faire",
+    "priorite": "plus tard",
+    "compte": "Moi",
+    "brief": "Même format que le Reel 1, sujet unique : le driver (point de départ et objectifs 2027). À publier seulement après le Reel 1.",
+    "etat": "Plan et légende prêts dans taches-instagram.docx. Étapes 2.1 à 2.5 toutes à faire. Attend la publication du Reel 1.",
+    "date": "2026-11-20"
+  },
+  {
+    "id": "VIS-03",
+    "domaine": "visibilité",
+    "titre": "Profil Instagram : finaliser les champs",
+    "statut": "à faire",
+    "priorite": "cette semaine",
+    "compte": "Moi",
+    "brief": "Nom 'Pierre Ducoin - Golf', compte professionnel créateur, catégorie Athlète, bouton de contact e-mail. Lien en bio plus tard (site et dossier).",
+    "etat": "Selon suivi-instagram.docx : photo, bio, nom d'utilisateur et localisation faits ; 4 champs restent à faire.",
+    "date": "2026-11-20"
+  },
+  {
+    "id": "VIS-04",
+    "domaine": "visibilité",
+    "titre": "Stories à la une : contenus des 4 rubriques",
+    "statut": "à faire",
+    "priorite": "plus tard",
+    "compte": "Visibilité",
+    "brief": "Préparer les contenus des rubriques Objectifs 2027, Entraînement, Chantaco, Partenaires.",
+    "etat": "Les 4 rubriques sont à faire dans suivi-instagram.docx. Rien préparé.",
+    "date": "2026-11-20"
+  },
+  {
+    "id": "VIS-05",
+    "domaine": "visibilité",
+    "titre": "Plan de tournage hebdomadaire",
+    "statut": "à faire",
+    "priorite": "cette semaine",
+    "compte": "Visibilité",
+    "brief": "Donner chaque semaine à l'avance quoi filmer et à quel moment de la séance, sans temps de tournage en plus de l'entraînement. Rythme visé : 3 Reels par semaine, stories à chaque session.",
+    "etat": "Onglet Hebdo du classeur vide : je n'ai pas les horaires de séances de la semaine.",
+    "date": "2026-11-20"
+  },
+  {
+    "id": "VIS-06",
+    "domaine": "visibilité",
+    "titre": "Dossier de sponsoring (2-3 pages, export PDF)",
+    "statut": "à faire",
+    "priorite": "cette semaine",
+    "compte": "Visibilité",
+    "brief": "Sections : présentation, palmarès, objectifs 2027 (échéance 2026-12-08) ; budget recherché, contreparties, formules de partenariat, visuels et contacts, relecture et export PDF (échéance 2026-12-15).",
+    "etat": "Onglet Dossier sponso : toutes les sections non commencées. Palmarès : rien à mettre en avant pour l'instant (371e français).",
+    "date": "2026-11-20"
+  },
+  {
+    "id": "VIS-07",
+    "domaine": "visibilité",
+    "titre": "Liste des sponsors cibles : prioriser",
+    "statut": "à faire",
+    "priorite": "cette semaine",
+    "compte": "Visibilité",
+    "brief": "Trier les 82 entreprises de l'onglet Sponsors, en commençant par les commerces locaux et les marques de golf. Échéance 2026-12-15.",
+    "etat": "82 entreprises listées. 8 ont un statut : 1 fait, 1 négatif (TaylorMade), 1 en attente (Ping), 5 demandes à faire. Aucune priorisation.",
+    "date": "2026-11-20"
+  },
+  {
+    "id": "VIS-08",
+    "domaine": "visibilité",
+    "titre": "Mails et scripts d'appel sponsors",
+    "statut": "à faire",
+    "priorite": "plus tard",
+    "compte": "Visibilité",
+    "brief": "Rédiger les mails et scripts d'appel pour les premiers contacts. Échéance des premiers contacts : 2026-12-31 (budgets marketing souvent bouclés en début d'année). Les coordonnées restent dans le chat.",
+    "etat": "Non commencé. Dépend du dossier (VIS-06) et de la liste cible (VIS-07).",
+    "date": "2026-11-20"
+  },
+  {
+    "id": "VIS-09",
+    "domaine": "visibilité",
+    "titre": "Récupérer les bilans golf pour le dossier",
+    "statut": "à faire",
+    "priorite": "plus tard",
+    "compte": "Visibilité",
+    "brief": "Lire le repo Sport-Nutrition (lecture seule) pour alimenter palmarès, objectifs et budget du dossier. Bilans prévus au 2026-11-30.",
+    "etat": "Repo Sport-Nutrition pas encore lu.",
+    "date": "2026-11-20"
+  },
+  {
+    "id": "VIS-10",
+    "domaine": "visibilité",
+    "titre": "Calendrier Alps Tour 2027 : intégrer au dossier et au suivi",
+    "statut": "bloqué",
+    "priorite": "plus tard",
+    "compte": "Visibilité",
+    "brief": "Reporter les tournois dans la section Calendrier du dossier et le tableau de suivi-instagram.docx dès publication.",
+    "etat": "Calendrier officiel pas encore publié (checklist et suivi-instagram.docx).",
+    "date": "2026-11-20"
+  },
+  {
+    "id": "VIS-11",
+    "domaine": "visibilité",
+    "titre": "Retirer les coordonnées de tiers du repo public",
+    "statut": "à faire",
+    "priorite": "aujourd'hui",
+    "compte": "Visibilité",
+    "brief": "L'onglet Sponsors du classeur contient des coordonnées de tiers, interdites dans les repos publics. Décider comment les retirer (elles restent aussi dans l'historique git).",
+    "etat": "Détecté à la lecture. Rien modifié, en attente de ta décision.",
+    "date": "2026-11-20"
+  }
+]
