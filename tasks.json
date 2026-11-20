@@ -119,5 +119,60 @@
     "brief": "L'onglet Sponsors du classeur contient des coordonnées de tiers, interdites dans les repos publics. Décider comment les retirer (elles restent aussi dans l'historique git).",
     "etat": "Détecté à la lecture. Rien modifié, en attente de ta décision.",
     "date": "2026-11-20"
+  },
+  {
+    "id": "VIS-12",
+    "domaine": "visibilité",
+    "titre": "Incohérence : vitesse de club en mph ou en km/h",
+    "statut": "à faire",
+    "priorite": "cette semaine",
+    "compte": "Moi",
+    "brief": "Trancher l'unité. suivi-instagram.docx et les textes des Reels utilisent les mph (113 → 118), l'onglet Bilans du classeur est en km/h. Choisir une unité, puis convertir ou corriger l'autre document.",
+    "etat": "Détectée à la lecture, rien modifié. En attendant, je garde les mph dans les vidéos.",
+    "date": "2026-11-20"
+  },
+  {
+    "id": "VIS-13",
+    "domaine": "visibilité",
+    "titre": "Incohérence : 3 Reels par semaine ou une vidéo à la fois",
+    "statut": "à faire",
+    "priorite": "cette semaine",
+    "compte": "Moi",
+    "brief": "suivi-instagram.docx fixe 3 Reels par semaine, taches-instagram.docx impose une vidéo à la fois (la suivante après la publication de la précédente). Préciser la règle réelle et aligner les deux documents.",
+    "etat": "Détectée à la lecture, rien modifié.",
+    "date": "2026-11-20"
+  },
+  {
+    "id": "VIS-14",
+    "domaine": "visibilité",
+    "titre": "Incohérence : sponsors actuels, 'aucun' dans le suivi mais une aide saisie dans Bilans",
+    "statut": "à faire",
+    "priorite": "cette semaine",
+    "compte": "Moi",
+    "brief": "suivi-instagram.docx indique aucun sponsor et un équipement acheté par toi. L'onglet Bilans, ligne 'Aides et sponsors reçus 2026', contient 'Chantaco' dans une cellule en euros, sans montant. Dire s'il s'agit d'une aide, de quel montant, et si elle doit apparaître comme partenaire dans le dossier et les contenus.",
+    "etat": "Détectée à la lecture. Question ouverte, rien modifié. Aucun montant dans ce fichier.",
+    "date": "2026-11-20"
+  },
+  {
+    "id": "VIS-15",
+    "domaine": "visibilité",
+    "titre": "Onglet Sponsors : doublons et fautes de saisie",
+    "statut": "à faire",
+    "priorite": "plus tard",
+    "compte": "Visibilité",
+    "brief": "Fusionner Foresight et ForeSight Sports, vérifier Inesis (marque Decathlon, déjà listée), corriger les fautes (Hermés, Bouyges). À faire avec la priorisation VIS-07.",
+    "etat": "Détecté à la lecture, rien modifié.",
+    "date": "2026-11-20"
+  },
+  {
+    "id": "VIS-16",
+    "domaine": "visibilité",
+    "titre": "Golf Club Makers Bidart : statut 'Fait' sans suite",
+    "statut": "à faire",
+    "priorite": "cette semaine",
+    "compte": "Moi",
+    "brief": "Contact initial daté de 2024-12-01, statut 'Fait', aucun retour ni prochaine action renseignés. Préciser ce qui s'est passé et décider de la relance (script d'appel prêt sur demande).",
+    "etat": "Détecté à la lecture. Question ouverte, rien modifié.",
+    "date": "2026-11-20"
   }
 ]
