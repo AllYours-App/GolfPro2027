@@ -36,23 +36,23 @@
     "id": "VIS-04",
     "domaine": "Vidéos",
     "titre": "Stories à la une : contenus des 4 rubriques",
-    "statut": "en cours",
+    "statut": "fait",
     "priorite": "plus tard",
     "compte": "Visibilité",
     "brief": "Préparer les contenus des rubriques Objectifs 2027, Entraînement, Chantaco, Partenaires.",
-    "etat": "Rédaction des 4 rubriques dans stories-a-la-une.md.",
+    "etat": "Livré : stories-a-la-une.md (4 rubriques : textes, plans, moments de séance). Partenaires : à créer au premier signé. Reste à toi : filmer et poster.",
     "date": "2026-11-21"
   },
   {
     "id": "VIS-05",
     "domaine": "Vidéos",
     "titre": "Plan de tournage hebdomadaire",
-    "statut": "à faire",
+    "statut": "en cours",
     "priorite": "cette semaine",
     "compte": "Visibilité",
     "brief": "Donner chaque semaine à l'avance quoi filmer et à quel moment de la séance, sans temps de tournage en plus de l'entraînement. Rythme visé : 3 Reels par semaine, stories à chaque session.",
-    "etat": "Onglet Hebdo du classeur vide : je n'ai pas les horaires de séances de la semaine.",
-    "date": "2026-11-20"
+    "etat": "Rédaction du catalogue de plans par type de séance dans plan-tournage-type.md.",
+    "date": "2026-11-21"
   },
   {
     "id": "VIS-06",
