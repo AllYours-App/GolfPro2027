@@ -47,23 +47,23 @@
     "id": "VIS-05",
     "domaine": "Vidéos",
     "titre": "Plan de tournage hebdomadaire",
-    "statut": "en cours",
+    "statut": "bloqué",
     "priorite": "cette semaine",
     "compte": "Visibilité",
     "brief": "Donner chaque semaine à l'avance quoi filmer et à quel moment de la séance, sans temps de tournage en plus de l'entraînement. Rythme visé : 3 Reels par semaine, stories à chaque session.",
-    "etat": "Rédaction du catalogue de plans par type de séance dans plan-tournage-type.md.",
+    "etat": "Livré : plan-tournage-type.md (plans par type de séance, semaine type, 6 sujets de Reels). Plan daté de la semaine bloqué : horaires de séances manquants (Hebdo vide). Question dans VIS-12 point 6.",
     "date": "2026-11-21"
   },
   {
     "id": "VIS-06",
     "domaine": "Sponsors",
-    "titre": "Dossier de sponsoring (2-3 pages, export PDF)",
-    "statut": "à faire",
+    "titre": "Dossier de sponsoring : présentation, palmarès, objectifs 2027 (échéance 2026-12-08)",
+    "statut": "en cours",
     "priorite": "cette semaine",
     "compte": "Visibilité",
-    "brief": "Sections : présentation, palmarès, objectifs 2027 (échéance 2026-12-08) ; budget recherché, contreparties, formules de partenariat, visuels et contacts, relecture et export PDF (échéance 2026-12-15).",
-    "etat": "Onglet Dossier sponso : toutes les sections non commencées. Palmarès : rien à mettre en avant pour l'instant (371e français).",
-    "date": "2026-11-20"
+    "brief": "Rédiger les 3 premières sections du dossier de sponsoring (présentation, palmarès, objectifs 2027) avant le 2026-12-08. La suite (budget, contreparties, formules, visuels, relecture et export PDF 2-3 pages, échéance 2026-12-15) passe dans VIS-17.",
+    "etat": "Rédaction de dossier-sponsoring-brouillon.md (3 sections).",
+    "date": "2026-11-21"
   },
   {
     "id": "VIS-07",
@@ -140,6 +140,17 @@
     "compte": "Visibilité",
     "brief": "Fusionner Foresight et ForeSight Sports, vérifier Inesis (marque Decathlon, déjà listée), corriger les fautes (Hermés, Bouyges). À faire avec la priorisation VIS-07.",
     "etat": "Doublons (Foresight / ForeSight Sports, Inesis / Decathlon, Scotty Cameron / Titleist) et fautes (Hermés, Bouyges, AirFrance, Redbull) repérés. Attend la décision VIS-11 pour une seule intervention sur le classeur.",
+    "date": "2026-11-21"
+  },
+  {
+    "id": "VIS-17",
+    "domaine": "Sponsors",
+    "titre": "Dossier de sponsoring : budget, contreparties, formules, visuels, export PDF (échéance 2026-12-15)",
+    "statut": "à faire",
+    "priorite": "cette semaine",
+    "compte": "Visibilité",
+    "brief": "Sections budget recherché, contreparties, formules de partenariat, visuels et contacts, relecture et export PDF de 2-3 pages. Échéance 2026-12-15. Suite de VIS-06.",
+    "etat": "Pas commencé. Budget en chiffres attendu (VIS-12 point 10).",
     "date": "2026-11-21"
   }
 ]
