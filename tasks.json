@@ -73,18 +73,18 @@
     "priorite": "cette semaine",
     "compte": "Visibilité",
     "brief": "Trier les 82 entreprises de l'onglet Sponsors, en commençant par les commerces locaux et les marques de golf. Échéance 2026-12-15.",
-    "etat": "Livré : sponsors-priorites.md. Niveau A (7 entreprises, contact avant 2026-12-31), niveau B (39), niveau C (32), TaylorMade en pause. Les 82 lignes sont classées une fois chacune.",
+    "etat": "Livré : sponsors-priorites.md. Niveau A (6 entreprises, contact avant 2026-12-31), niveau B (40), niveau C (32), TaylorMade en pause. Banque Michel Inchauspé passée en B : à vérifier avant contact (presse économique, août 2026). Les 82 lignes sont classées une fois chacune.",
     "date": "2026-11-21"
   },
   {
     "id": "VIS-08",
     "domaine": "Sponsors",
     "titre": "Mails et scripts d'appel sponsors",
-    "statut": "en cours",
+    "statut": "fait",
     "priorite": "plus tard",
     "compte": "Visibilité",
     "brief": "Rédiger les mails et scripts d'appel pour les premiers contacts. Échéance des premiers contacts : 2026-12-31 (budgets marketing souvent bouclés en début d'année). Les coordonnées restent dans le chat.",
-    "etat": "Rédaction des premiers mails et scripts d'appel pour le niveau A dans mails-scripts-sponsors.md.",
+    "etat": "Livré : mails-scripts-sponsors.md (mail commerce local, relances Makers et Ping, Titleist, script d'appel 60 s, objections, relance J+7). Coordonnées des destinataires données dans le chat. Envoi à planifier après l'export du dossier (VIS-17).",
     "date": "2026-11-21"
   },
   {
@@ -146,11 +146,11 @@
     "id": "VIS-17",
     "domaine": "Sponsors",
     "titre": "Dossier de sponsoring : budget, contreparties, formules, visuels, export PDF (échéance 2026-12-15)",
-    "statut": "à faire",
+    "statut": "en cours",
     "priorite": "cette semaine",
     "compte": "Visibilité",
     "brief": "Sections budget recherché, contreparties, formules de partenariat, visuels et contacts, relecture et export PDF de 2-3 pages. Échéance 2026-12-15. Suite de VIS-06.",
-    "etat": "Pas commencé. Budget en chiffres attendu (VIS-12 point 10).",
+    "etat": "Rédaction des sections contreparties et formules dans dossier-sponsoring-brouillon.md.",
     "date": "2026-11-21"
   }
 ]
