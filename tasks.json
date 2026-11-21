@@ -1,7 +1,7 @@
 [
   {
     "id": "VIS-01",
-    "domaine": "visibilité",
+    "domaine": "Vidéos",
     "titre": "Reel 1 : présentation (qualifications, catégorie 6)",
     "statut": "à faire",
     "priorite": "cette semaine",
@@ -12,7 +12,7 @@
   },
   {
     "id": "VIS-02",
-    "domaine": "visibilité",
+    "domaine": "Vidéos",
     "titre": "Reel 2 : séance driver",
     "statut": "à faire",
     "priorite": "plus tard",
@@ -23,7 +23,7 @@
   },
   {
     "id": "VIS-03",
-    "domaine": "visibilité",
+    "domaine": "Vidéos",
     "titre": "Profil Instagram : finaliser les champs",
     "statut": "à faire",
     "priorite": "cette semaine",
@@ -34,18 +34,18 @@
   },
   {
     "id": "VIS-04",
-    "domaine": "visibilité",
+    "domaine": "Vidéos",
     "titre": "Stories à la une : contenus des 4 rubriques",
-    "statut": "à faire",
+    "statut": "en cours",
     "priorite": "plus tard",
     "compte": "Visibilité",
     "brief": "Préparer les contenus des rubriques Objectifs 2027, Entraînement, Chantaco, Partenaires.",
-    "etat": "Les 4 rubriques sont à faire dans suivi-instagram.docx. Rien préparé.",
-    "date": "2026-11-20"
+    "etat": "Rédaction des 4 rubriques dans stories-a-la-une.md.",
+    "date": "2026-11-21"
   },
   {
     "id": "VIS-05",
-    "domaine": "visibilité",
+    "domaine": "Vidéos",
     "titre": "Plan de tournage hebdomadaire",
     "statut": "à faire",
     "priorite": "cette semaine",
@@ -56,7 +56,7 @@
   },
   {
     "id": "VIS-06",
-    "domaine": "visibilité",
+    "domaine": "Sponsors",
     "titre": "Dossier de sponsoring (2-3 pages, export PDF)",
     "statut": "à faire",
     "priorite": "cette semaine",
@@ -67,7 +67,7 @@
   },
   {
     "id": "VIS-07",
-    "domaine": "visibilité",
+    "domaine": "Sponsors",
     "titre": "Liste des sponsors cibles : prioriser",
     "statut": "à faire",
     "priorite": "cette semaine",
@@ -78,7 +78,7 @@
   },
   {
     "id": "VIS-08",
-    "domaine": "visibilité",
+    "domaine": "Sponsors",
     "titre": "Mails et scripts d'appel sponsors",
     "statut": "à faire",
     "priorite": "plus tard",
@@ -89,18 +89,18 @@
   },
   {
     "id": "VIS-09",
-    "domaine": "visibilité",
+    "domaine": "Sponsors",
     "titre": "Récupérer les bilans golf pour le dossier",
-    "statut": "à faire",
+    "statut": "bloqué",
     "priorite": "plus tard",
     "compte": "Visibilité",
     "brief": "Lire le repo Sport-Nutrition (lecture seule) pour alimenter palmarès, objectifs et budget du dossier. Bilans prévus au 2026-11-30.",
-    "etat": "Repo Sport-Nutrition pas encore lu.",
-    "date": "2026-11-20"
+    "etat": "Repo Sport-Nutrition lu : onglet Bilans vide (aucune valeur saisie), Hebdo vide. Attend tes saisies (VIS-12 point 9, échéance 2026-11-30).",
+    "date": "2026-11-21"
   },
   {
     "id": "VIS-10",
-    "domaine": "visibilité",
+    "domaine": "Sponsors",
     "titre": "Calendrier Alps Tour 2027 : intégrer au dossier et au suivi",
     "statut": "bloqué",
     "priorite": "plus tard",
@@ -111,68 +111,35 @@
   },
   {
     "id": "VIS-11",
-    "domaine": "visibilité",
+    "domaine": "Sponsors",
     "titre": "Retirer les coordonnées de tiers du repo public",
-    "statut": "à faire",
-    "priorite": "aujourd'hui",
+    "statut": "bloqué",
+    "priorite": "cette semaine",
     "compte": "Visibilité",
     "brief": "L'onglet Sponsors du classeur contient des coordonnées de tiers, interdites dans les repos publics. Décider comment les retirer (elles restent aussi dans l'historique git).",
-    "etat": "Détecté à la lecture. Rien modifié, en attente de ta décision.",
-    "date": "2026-11-20"
+    "etat": "Priorité ramenée de 'aujourd'hui' à 'cette semaine' (seule la mère fixe 'aujourd'hui'). Rien modifié, en attente de ta décision (VIS-12 point 5).",
+    "date": "2026-11-21"
   },
   {
     "id": "VIS-12",
-    "domaine": "visibilité",
-    "titre": "Incohérence : vitesse de club en mph ou en km/h",
+    "domaine": "Sponsors",
+    "titre": "Décisions et infos en attente de toi (Visibilité)",
     "statut": "à faire",
     "priorite": "cette semaine",
     "compte": "Moi",
-    "brief": "Trancher l'unité. suivi-instagram.docx et les textes des Reels utilisent les mph (113 → 118), l'onglet Bilans du classeur est en km/h. Choisir une unité, puis convertir ou corriger l'autre document.",
-    "etat": "Détectée à la lecture, rien modifié. En attendant, je garde les mph dans les vidéos.",
-    "date": "2026-11-20"
-  },
-  {
-    "id": "VIS-13",
-    "domaine": "visibilité",
-    "titre": "Incohérence : 3 Reels par semaine ou une vidéo à la fois",
-    "statut": "à faire",
-    "priorite": "cette semaine",
-    "compte": "Moi",
-    "brief": "suivi-instagram.docx fixe 3 Reels par semaine, taches-instagram.docx impose une vidéo à la fois (la suivante après la publication de la précédente). Préciser la règle réelle et aligner les deux documents.",
-    "etat": "Détectée à la lecture, rien modifié.",
-    "date": "2026-11-20"
-  },
-  {
-    "id": "VIS-14",
-    "domaine": "visibilité",
-    "titre": "Incohérence : sponsors actuels, 'aucun' dans le suivi mais une aide saisie dans Bilans",
-    "statut": "à faire",
-    "priorite": "cette semaine",
-    "compte": "Moi",
-    "brief": "suivi-instagram.docx indique aucun sponsor et un équipement acheté par toi. L'onglet Bilans, ligne 'Aides et sponsors reçus 2026', contient 'Chantaco' dans une cellule en euros, sans montant. Dire s'il s'agit d'une aide, de quel montant, et si elle doit apparaître comme partenaire dans le dossier et les contenus.",
-    "etat": "Détectée à la lecture. Question ouverte, rien modifié. Aucun montant dans ce fichier.",
-    "date": "2026-11-20"
+    "brief": "1) Unité de vitesse de club : mph (Reels, suivi-instagram.docx) ou km/h (onglet Bilans). Même décision que PREP-01 point 4. En attendant je garde les mph. 2) Rythme de publication : 3 Reels par semaine (suivi-instagram.docx) ou une vidéo à la fois (taches-instagram.docx). Par défaut je lis : une vidéo à la fois pour les Reels 1 et 2 seulement, puis 3 Reels par semaine. Dis-moi si c'est faux. 3) Sponsors actuels : le suivi dit aucun, mais Bilans > 'Aides et sponsors reçus 2026' contient 'Chantaco' sans montant. Aide reçue ou non, montant, et partenaire à afficher dans le dossier et les contenus ? Même sujet que PREP-01 point 5. 4) Golf Club Makers Bidart : contact initial 2024-12-01, statut 'Fait', aucune suite renseignée. Ce qui s'est passé, et on relance ? (script d'appel prêt sur demande). 5) VIS-11 : l'onglet Sponsors du classeur, dans le repo public, contient des coordonnées de tiers. Choisir : les supprimer du classeur (elles restent dans l'historique git), passer le repo en privé, ou réécrire l'historique. Je ne touche à rien sans ta réponse. VIS-15 (doublons et fautes du même onglet) attend ce choix pour une seule intervention sur le classeur. 6) Horaires des séances de la semaine (même sujet que PREP-01 point 6), pour dater le plan de tournage VIS-05. 7) Objectif de résultat 2027 pour le dossier (cut, top X, rang) : le suivi ne donne que vitesse, carry et putts. 8) Accord de Chantaco et de Sébastien Branger pour les citer dans le dossier et les contenus. 9) Bilans à saisir avant le 2026-11-30 (PREP-01 point 7) : VIS-09 et le palmarès du dossier en dépendent. 10) Budget saison en chiffres (PREP-01 point 3) pour la section Budget du dossier.",
+    "etat": "Regroupe les anciennes VIS-12, 13, 14, 16 et les questions de VIS-05, 09, 11, 15. Rien modifié côté fichiers. En attente de tes réponses.",
+    "date": "2026-11-21"
   },
   {
     "id": "VIS-15",
-    "domaine": "visibilité",
+    "domaine": "Sponsors",
     "titre": "Onglet Sponsors : doublons et fautes de saisie",
-    "statut": "à faire",
+    "statut": "bloqué",
     "priorite": "plus tard",
     "compte": "Visibilité",
     "brief": "Fusionner Foresight et ForeSight Sports, vérifier Inesis (marque Decathlon, déjà listée), corriger les fautes (Hermés, Bouyges). À faire avec la priorisation VIS-07.",
-    "etat": "Détecté à la lecture, rien modifié.",
-    "date": "2026-11-20"
-  },
-  {
-    "id": "VIS-16",
-    "domaine": "visibilité",
-    "titre": "Golf Club Makers Bidart : statut 'Fait' sans suite",
-    "statut": "à faire",
-    "priorite": "cette semaine",
-    "compte": "Moi",
-    "brief": "Contact initial daté de 2024-12-01, statut 'Fait', aucun retour ni prochaine action renseignés. Préciser ce qui s'est passé et décider de la relance (script d'appel prêt sur demande).",
-    "etat": "Détecté à la lecture. Question ouverte, rien modifié.",
-    "date": "2026-11-20"
+    "etat": "Doublons (Foresight / ForeSight Sports, Inesis / Decathlon, Scotty Cameron / Titleist) et fautes (Hermés, Bouyges, AirFrance, Redbull) repérés. Attend la décision VIS-11 pour une seule intervention sur le classeur.",
+    "date": "2026-11-21"
   }
 ]
