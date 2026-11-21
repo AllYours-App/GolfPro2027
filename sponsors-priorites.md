@@ -4,24 +4,23 @@ Aucune coordonnée dans ce fichier (repo public) : elles se donnent dans le chat
 Critères : proximité (Pays Basque), taille de l'entreprise (décideur joignable), cohérence avec les cibles du suivi (commerces locaux, marques de golf, banques, voyage). Avec un classement à la 371e place et pas encore de palmarès, les grands groupes ne répondront pas avant des résultats : on commence là où une personne peut décider vite, souvent en échange de matériel, d'une remise ou d'un coup de pouce plutôt que d'un chèque.
 Les budgets marketing se bouclent souvent en début d'année : premiers contacts avant le 2026-12-31.
 
-## Niveau A : contacter avant le 2026-12-31 (7 entreprises)
+## Niveau A : contacter avant le 2026-12-31 (6 entreprises)
 
 - **Golf Club Makers Bidart** : Relance : contact en 2024-12, statut 'Fait', aucune suite. Local.
 - **Golf Plus** : Magasin de golf à Anglet. Demande à faire.
 - **Golf One 64** : Magasin de golf à Biarritz. Demande à faire.
-- **Banque Michel Inchauspé** : Demande à faire. À confirmer : agence locale.
 - **64 (habits)** : Textile. Demande à faire.
 - **Ping** : Relance : contact en 2025-08, 'en attente d'une réponse' depuis plus d'un an.
 - **Titleist** : Demande à faire. Scotty Cameron appartient à la même marque : un seul contact.
 
-Ordre conseillé : 1) Makers Bidart et Ping (relances, c'est du déjà-commencé), 2) Golf Plus et Golf One 64, 3) Banque Michel Inchauspé et 64 (habits), 4) Titleist.
+Ordre conseillé : 1) Makers Bidart et Ping (relances, c'est du déjà-commencé), 2) Golf Plus et Golf One 64, 3) 64 (habits), 4) Titleist.
 
 ## Niveau B : à contacter après l'envoi du dossier (décembre à février)
 
 - **Golf (équipementiers)** : Wilson, Srixon, Cobra, Mizuno
 - **Accessoires de golf** : Garmin, Arccos, Bushnell, WellPutt, GolfBuddy, Trackman, Foresight, Smart2Move
 - **Textile** : Footjoy, J.Lindeberg, Puma, Lacoste, Adidas
-- **Banque et assurances (agences locales)** : Crédit Agricole, Banque Populaire, Caisse d'épargne, AXA, Groupama, Maif, MMA, Allianz, Swiss Life
+- **Banque et assurances (agences locales)** : Banque Michel Inchauspé (à vérifier avant tout contact : la presse économique, L'Informé en août 2026, parle d'une lourde sanction du régulateur bancaire ; un partenaire visé par une procédure peut abîmer ton image), Crédit Agricole, Banque Populaire, Caisse d'épargne, AXA, Groupama, Maif, MMA, Allianz, Swiss Life
 - **Auto (concessions locales)** : Toyota, Lexus, Mazda, BMW, Audi, Volvo, Mercedes
 - **Voyage** : AirFrance, SNCF
 - **Nutrition (lié à ta prise de masse)** : BiotechUSA, MyProtein, Inshape Nutrition
@@ -47,4 +46,4 @@ Pas de relance spécifique : on les garde en liste, on revient avec un palmarès
 - Passe de 82 à 79 lignes après fusions
 
 ## Répartition
-A : 7 | B : 39 | C : 32 | En pause : 1 | Lignes absorbées par fusion : 3 | Total : 82
+A : 6 | B : 40 | C : 32 | En pause : 1 | Lignes absorbées par fusion : 3 | Total : 82
