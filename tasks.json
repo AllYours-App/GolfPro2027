@@ -58,23 +58,23 @@
     "id": "VIS-06",
     "domaine": "Sponsors",
     "titre": "Dossier de sponsoring : présentation, palmarès, objectifs 2027 (échéance 2026-12-08)",
-    "statut": "en cours",
+    "statut": "fait",
     "priorite": "cette semaine",
     "compte": "Visibilité",
     "brief": "Rédiger les 3 premières sections du dossier de sponsoring (présentation, palmarès, objectifs 2027) avant le 2026-12-08. La suite (budget, contreparties, formules, visuels, relecture et export PDF 2-3 pages, échéance 2026-12-15) passe dans VIS-17.",
-    "etat": "Rédaction de dossier-sponsoring-brouillon.md (3 sections).",
+    "etat": "Livré : dossier-sponsoring-brouillon.md (présentation, palmarès, objectifs 2027). Crochets à lever : date et lieu de la qualification, objectif de résultat, unité mph ou km/h, accords. Échéance 2026-12-08 tenue côté rédaction.",
     "date": "2026-11-21"
   },
   {
     "id": "VIS-07",
     "domaine": "Sponsors",
     "titre": "Liste des sponsors cibles : prioriser",
-    "statut": "à faire",
+    "statut": "en cours",
     "priorite": "cette semaine",
     "compte": "Visibilité",
     "brief": "Trier les 82 entreprises de l'onglet Sponsors, en commençant par les commerces locaux et les marques de golf. Échéance 2026-12-15.",
-    "etat": "82 entreprises listées. 8 ont un statut : 1 fait, 1 négatif (TaylorMade), 1 en attente (Ping), 5 demandes à faire. Aucune priorisation.",
-    "date": "2026-11-20"
+    "etat": "Priorisation des 82 entreprises dans sponsors-priorites.md.",
+    "date": "2026-11-21"
   },
   {
     "id": "VIS-08",
