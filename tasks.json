@@ -69,23 +69,23 @@
     "id": "VIS-07",
     "domaine": "Sponsors",
     "titre": "Liste des sponsors cibles : prioriser",
-    "statut": "en cours",
+    "statut": "fait",
     "priorite": "cette semaine",
     "compte": "Visibilité",
     "brief": "Trier les 82 entreprises de l'onglet Sponsors, en commençant par les commerces locaux et les marques de golf. Échéance 2026-12-15.",
-    "etat": "Priorisation des 82 entreprises dans sponsors-priorites.md.",
+    "etat": "Livré : sponsors-priorites.md. Niveau A (7 entreprises, contact avant 2026-12-31), niveau B (39), niveau C (32), TaylorMade en pause. Les 82 lignes sont classées une fois chacune.",
     "date": "2026-11-21"
   },
   {
     "id": "VIS-08",
     "domaine": "Sponsors",
     "titre": "Mails et scripts d'appel sponsors",
-    "statut": "à faire",
+    "statut": "en cours",
     "priorite": "plus tard",
     "compte": "Visibilité",
     "brief": "Rédiger les mails et scripts d'appel pour les premiers contacts. Échéance des premiers contacts : 2026-12-31 (budgets marketing souvent bouclés en début d'année). Les coordonnées restent dans le chat.",
-    "etat": "Non commencé. Dépend du dossier (VIS-06) et de la liste cible (VIS-07).",
-    "date": "2026-11-20"
+    "etat": "Rédaction des premiers mails et scripts d'appel pour le niveau A dans mails-scripts-sponsors.md.",
+    "date": "2026-11-21"
   },
   {
     "id": "VIS-09",
